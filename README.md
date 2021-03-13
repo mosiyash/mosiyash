@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mosiyash
-- 👀 I’m interested in DevOps, coding and lead a team
+- 👀 I’m interested in DevOps, fullstack coding and lead a team
 - 🌱 I’m currently learning Vue and TypeScript
 - 💞️ I’m looking to collaborate on highload project
 - 📫 Telegram: @mosiyash
